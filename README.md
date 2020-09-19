@@ -23,7 +23,7 @@ The analysis will be done using Python, Sklearn and Tensorflow.
 Three different models were used in order to find the best models:
 * I.   Support Vector Machine (SVM)
 * II.  K-Nearest Neighbor (KNN)
-* III. Deep Learning Model (RNN with adam Optimizer)
+* III. Deep Learning Model (with adam Optimizer)
 
 * For each notebooks, data and model will be loaded in, standardized, and predicted. In addition, SVM and KNN models will also be hyperparameter tuned using GridSearch to try to search for the best model. In addition, SVM and KNN models will be saved using Joblib library, while Deep Learning model will be saved in the format of hdf5.
 
@@ -31,7 +31,7 @@ Three different models were used in order to find the best models:
 Results
   * SVM: 0.885
   * KNN: 0.816
-  * RNN: 0.903
+  * Deep Learning: 0.903
 * The best model to predict the exoplanets was Deep Learning Model with 0.9027 accuracy. KNN turned out to be the worst model overall for predicting this dataset.
 
 ## Notes and New Findings
