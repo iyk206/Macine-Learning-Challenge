@@ -30,7 +30,7 @@ Results
   * SVM: 0.885
   * KNN: 0.816
   * RNN: 0.903
-*The best model to predict the exoplanets was Deep Learning Model with 0.9027 accuracy. KNN turned out to be the worst model overall for predicting this dataset.
+* The best model to predict the exoplanets was Deep Learning Model with 0.9027 accuracy. KNN turned out to be the worst model overall for predicting this dataset.
 
 ## Notes and New Findings
 * The dataset lacked explanation of most features, making it extremely difficult to try feature engineering.
