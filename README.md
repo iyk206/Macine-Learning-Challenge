@@ -8,6 +8,8 @@ Link to the dataset: https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
 The dataset was collected using Kepler Space Telescope that was first launched in 2009.
 
+The analysis will be done using Python, Sklearn and Tensorflow.
+
 ## Dataset summary
 ![](data_summary.png)
 
