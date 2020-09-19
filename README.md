@@ -23,7 +23,7 @@ Three different models were used in order to find the best models:
 * II.  K-Nearest Neighbor (KNN)
 * III. Deep Learning Model (RNN with adam Optimizer)
 
-For each notebooks, data and model will be loaded in, standardized, and predicted. In addition, SVM and KNN models will also be hyperparameter tuned using GridSearch to try to search for the best model. In addition, SVM and KNN models will be saved using Joblib library, while Deep Learning model will be saved in the format of hdf5.
+* For each notebooks, data and model will be loaded in, standardized, and predicted. In addition, SVM and KNN models will also be hyperparameter tuned using GridSearch to try to search for the best model. In addition, SVM and KNN models will be saved using Joblib library, while Deep Learning model will be saved in the format of hdf5.
 
 ## Best Model (Deep Learning Model)
 Results
